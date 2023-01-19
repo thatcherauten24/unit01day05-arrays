@@ -1,7 +1,7 @@
 public class ThreeArrayRange {
     public static void main(String[] args) {
         
-        int[] a = {67, 13, 45};
+        int[] a = {13, 13, 13};
         int largest = a[0];
         int smallest = a[0];
 
