@@ -1,3 +1,4 @@
+// good
 public class ThreeArrayProduct {
     public static void main(String[] args) {
         int[] a = {6, 9, 3};
