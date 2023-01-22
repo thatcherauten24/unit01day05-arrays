@@ -1,3 +1,4 @@
+// good. I've got a cool trick to find "between" that I like to show off (can't claim it's mine)
 import java.util.Arrays;
 
 public class ImmutableSort {
